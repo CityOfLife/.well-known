@@ -1,3 +1,2 @@
-<script>
-  window.location.href = "https://discord.com/invite/xnSUCbPuPA";
-</script>
+<meta http-equiv="refresh" content="0;url=http://nowy-adres">
+
