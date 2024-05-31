@@ -1,3 +1,3 @@
 <script>
-  window.location.href = "http://nowy-adres";
+  window.location.href = "https://discord.com/invite/xnSUCbPuPA";
 </script>
